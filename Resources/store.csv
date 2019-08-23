@@ -1,4 +1,4 @@
-﻿Name,BusinessEntityID,AnnualSales,AnnualRevenue,BankName,BusinessType,YearOpened,Specialty,SquareFeet,Brands,Internet,NumberEmployees
+﻿name,businessentityid,annualsales,annualrevenue,bankname,businesstype,yearopened,specialty,squarefeet,brands,internet,numberemployees
 Next-Door Bike Store,292,800000,80000,United Security,BM,1996,Mountain,21000,2,ISDN,13
 Professional Sales and Service,294,800000,80000,International Bank,BM,1991,Touring,18000,4+,T1,14
 Riders Company,296,800000,80000,Primary Bank & Reserve,BM,1999,Road,21000,2,DSL,15

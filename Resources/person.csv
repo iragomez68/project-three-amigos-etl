@@ -1,4 +1,4 @@
-﻿PersonId,Title,FirstName,MiddleName,LastName,Suffix,ContactType,TotalPurchaseYTD
+﻿personid,title,firstname,middlename,lastname,suffix,contacttype,totalpurchaseytd
 291,Mr.,Gustavo,NULL,Achong,NULL,Owner,-13909.13
 293,Ms.,Catherine,R.,Abel,NULL,Owner,-3943.75
 295,Ms.,Kim,NULL,Abercrombie,NULL,Owner,-7948.60
